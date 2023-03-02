@@ -2,8 +2,6 @@
 
 This is the land where I explore.
 
-I'm learning to build recently.
-
 <details>
 <summary>⚡️ More about my life</summary>
 <br />
